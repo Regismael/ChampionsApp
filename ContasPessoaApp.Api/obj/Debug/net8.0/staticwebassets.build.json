@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "g5sn1lSfjEDEb2wweJ1wMsJ6ST6RS/b04EZOvjKvbeY=",
+  "Source": "ChampionsApp.Api",
+  "BasePath": "_content/ChampionsApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

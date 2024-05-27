@@ -1,0 +1,12 @@
+C:\aulascsharp\ContasPessoaApp\ContasPessoaApp.Data\bin\Debug\net8.0\ChampionsApp.Data.deps.json
+C:\aulascsharp\ContasPessoaApp\ContasPessoaApp.Data\bin\Debug\net8.0\ChampionsApp.Data.dll
+C:\aulascsharp\ContasPessoaApp\ContasPessoaApp.Data\bin\Debug\net8.0\ChampionsApp.Data.pdb
+C:\aulascsharp\ContasPessoaApp\ContasPessoaApp.Data\obj\Debug\net8.0\ChampionsApp.Data.csproj.AssemblyReference.cache
+C:\aulascsharp\ContasPessoaApp\ContasPessoaApp.Data\obj\Debug\net8.0\ChampionsApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\aulascsharp\ContasPessoaApp\ContasPessoaApp.Data\obj\Debug\net8.0\ChampionsApp.Data.AssemblyInfoInputs.cache
+C:\aulascsharp\ContasPessoaApp\ContasPessoaApp.Data\obj\Debug\net8.0\ChampionsApp.Data.AssemblyInfo.cs
+C:\aulascsharp\ContasPessoaApp\ContasPessoaApp.Data\obj\Debug\net8.0\ChampionsApp.Data.csproj.CoreCompileInputs.cache
+C:\aulascsharp\ContasPessoaApp\ContasPessoaApp.Data\obj\Debug\net8.0\ChampionsApp.Data.dll
+C:\aulascsharp\ContasPessoaApp\ContasPessoaApp.Data\obj\Debug\net8.0\refint\ChampionsApp.Data.dll
+C:\aulascsharp\ContasPessoaApp\ContasPessoaApp.Data\obj\Debug\net8.0\ChampionsApp.Data.pdb
+C:\aulascsharp\ContasPessoaApp\ContasPessoaApp.Data\obj\Debug\net8.0\ref\ChampionsApp.Data.dll
