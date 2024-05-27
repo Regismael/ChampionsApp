@@ -11,8 +11,7 @@ namespace ChampionsApp.Data.Repositories
 {
     public class VendaRepository
     {
-        private string _connectionString = "Data Source=hackathoncoti.database.windows.net;" +
-            "Initial Catalog=arcaclouddev-26cd5c5d06a3442be89b08db1f72fcf7;Persist Security Info=True;User ID=giom;Password=hackathon@2024;Encrypt=False";
+        private string _connectionString = "";
 
         public List<Venda> GetAll()
         {

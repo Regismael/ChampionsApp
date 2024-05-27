@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{30506F6D-B0A4-4440-BB89-E22EFFF842B5}|ContasPessoaApp.Data\\ChampionsApp.Data.csproj|c:\\aulascsharp\\contaspessoaapp\\contaspessoaapp.data\\repositories\\vendarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30506F6D-B0A4-4440-BB89-E22EFFF842B5}|ContasPessoaApp.Data\\ChampionsApp.Data.csproj|solutionrelative:contaspessoaapp.data\\repositories\\vendarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00BE2B6-9AC9-4B1D-8461-EB8A343A3D6E}|ContasPessoaApp.Api\\ChampionsApp.Api.csproj|c:\\aulascsharp\\contaspessoaapp\\contaspessoaapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00BE2B6-9AC9-4B1D-8461-EB8A343A3D6E}|ContasPessoaApp.Api\\ChampionsApp.Api.csproj|solutionrelative:contaspessoaapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00BE2B6-9AC9-4B1D-8461-EB8A343A3D6E}|ContasPessoaApp.Api\\ChampionsApp.Api.csproj|c:\\aulascsharp\\contaspessoaapp\\contaspessoaapp.api\\configurations\\corsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00BE2B6-9AC9-4B1D-8461-EB8A343A3D6E}|ContasPessoaApp.Api\\ChampionsApp.Api.csproj|solutionrelative:contaspessoaapp.api\\configurations\\corsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\aulascsharp\\ContasPessoaApp\\ContasPessoaApp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ContasPessoaApp.Api\\Program.cs",
+              "ToolTip": "C:\\aulascsharp\\ContasPessoaApp\\ContasPessoaApp.Api\\Program.cs",
+              "RelativeToolTip": "ContasPessoaApp.Api\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:50:48.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CorsConfiguration.cs",
+              "DocumentMoniker": "C:\\aulascsharp\\ContasPessoaApp\\ContasPessoaApp.Api\\Configurations\\CorsConfiguration.cs",
+              "RelativeDocumentMoniker": "ContasPessoaApp.Api\\Configurations\\CorsConfiguration.cs",
+              "ToolTip": "C:\\aulascsharp\\ContasPessoaApp\\ContasPessoaApp.Api\\Configurations\\CorsConfiguration.cs",
+              "RelativeToolTip": "ContasPessoaApp.Api\\Configurations\\CorsConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:50:23.543Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "ContasPessoaApp.Data\\Repositories\\VendaRepository.cs",
               "ToolTip": "C:\\aulascsharp\\ContasPessoaApp\\ContasPessoaApp.Data\\Repositories\\VendaRepository.cs",
               "RelativeToolTip": "ContasPessoaApp.Data\\Repositories\\VendaRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAcAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T16:51:01.457Z",
               "EditorCaption": ""
